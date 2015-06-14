@@ -2,3 +2,6 @@
 name = "utilities"
 version = "0.1.0"
 authors = ["kelossus <epinzolas94@live.com>"]
+[lib]
+name = "embed"
+crate-type = ["dylib"]
