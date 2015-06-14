@@ -1,0 +1,405 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sl",
+				"sleep_ms        Function (mod.rs) : pub fn sleep_ms(ms: u32) {                                         "
+			],
+			[
+				"m",
+				"macro_rules	macro_rules! … ( … )"
+			],
+			[
+				"l",
+				"let"
+			],
+			[
+				"print",
+				"println!	println! …"
+			],
+			[
+				"Ni",
+				"NireIt2"
+			],
+			[
+				"NireI",
+				"NireIt"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/content.rs",
+			"settings":
+			{
+				"buffer_size": 1400,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/tests/tests.rs",
+			"settings":
+			{
+				"buffer_size": 121,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "[package]\nname = \"utilities\"\nversion = \"0.1.0\"\nauthors = [\"kelossus <epinzolas94@live.com>\"]\n[lib]\nname = \"embed\"\ncrate-type = [\"dylib\"]\n",
+			"file": "Cargo.toml",
+			"file_size": 93,
+			"file_write_time": 130787567767107181,
+			"settings":
+			{
+				"buffer_size": 137,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "sublimelinter t",
+		"selected_items":
+		[
+			[
+				"sublimelinter t",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"lint ",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"INSTA",
+				"Package Control: Install Package"
+			],
+			[
+				"rust",
+				"Rust Code Formatter: Set Path"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"Rust",
+				"Rust Code Formatter: Format Selection"
+			],
+			[
+				"",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"set py",
+				"Set Syntax: Python"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/psyco-kitty/rust/utilities/src",
+		"/E/psyco-kitty/rust/utilities/src/tests"
+	],
+	"file_history":
+	[
+		"/E/psyco-kitty/rust/utilities/tests/lib.rs",
+		"/E/psyco-kitty/rust/timed_input/timed_input.sublime-project",
+		"/E/psyco-kitty/rust/timed_input/Cargo.toml",
+		"/E/psyco-kitty/rust/timed_input/src/main.rs",
+		"/E/psyco-kitty/rust/Nueva carpeta/testa/src/main.rs",
+		"/E/psyco-kitty/rust/timed_input/src/s.sublime-project",
+		"/C/Users/Equipo/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/E/documents/alarm_project/timed_input.py",
+		"/C/Users/Equipo/AppData/Roaming/Sublime Text 3/Packages/User/RustAutoComplete.sublime-settings",
+		"/E/rust conf/racer/README.md",
+		"/E/Downloads/rustup.sh",
+		"/E/rust-style/Cargo.toml",
+		"/E/racer/Cargo.toml",
+		"/E/documents/alarm_project/timed_input/src/main.rs",
+		"/E/documents/alarm_project/timed_input/Cargo.toml",
+		"/E/psyco-kitty/rust/dining_philosophers/src/main.rs",
+		"/E/psyco-kitty/rust/multiples_of_3_and_5/src/main.rs",
+		"/E/documents/alarm_project/test - copia.py",
+		"/E/documents/alarm_project/test.py",
+		"/E/documents/alarm_project/server_side.py",
+		"/E/racer/README.md",
+		"/C/Users/Equipo/AppData/Roaming/Sublime Text 3/Packages/User/Rust.sublime-settings",
+		"/E/psyco-kitty/rust/guessing_game/Cargo.toml",
+		"/E/psyco-kitty/rust/guessing_game/src/main.rs",
+		"/C/Users/Equipo/OneDrive/Documentos/Nuevo AutoHotkey Script.ahk",
+		"/E/psyco-kitty/b-scripting.py",
+		"/E/Downloads/DB_Queries_Transactions.java",
+		"/C/Users/Equipo/OneDrive/Documentos/learning.java",
+		"/E/Downloads/acaf_connected.c",
+		"/E/RRRRHHHH_Artifacts/Artifacts.mdj"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"thread",
+			";\n",
+			");\n",
+			">",
+			">>",
+			">>>>>",
+			">>>>>>> 448fde3bc0eca9c2c915d0b5fab1a39044f27db4:It2Artifacts(E)/Artifacts.mdj\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/content.rs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1400,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1395,
+								1395
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rust/Rust.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 648.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/tests/tests.rs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 121,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								24,
+								24
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rust/Rust.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Cargo.toml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 137,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								137,
+								137
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "utilities.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"E:\\psyco-kitty\\rust\\timed_input\\src\\main.rs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
